@@ -1,0 +1,8 @@
+1. Place the txt file in the input files folder
+2. All the classes are compiled. Navigate to the directory in command prompt and type
+	java -cp . Main/Main "example.txt"
+3. If you place a different file use that files name in place of "example.txt"
+
+4. Output file is generated in the output files folder with the prefix output_ and the file name following it.
+5. All errors are logged in the log File. Check for errors in the log file, if any.
+6. Screenshots provided in the FYI folder.

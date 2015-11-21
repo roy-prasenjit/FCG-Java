@@ -1,0 +1,5 @@
+Student{name="name1", homeworkAssignment1=100.0, homeworkAssignment2=100.0, homeworkAssignment3=100.0, midTermScore=100.0, projectScore=100.0, finalScore=100.0} -- grade -- A
+Student{name="name2", homeworkAssignment1=50.0, homeworkAssignment2=50.0, homeworkAssignment3=50.0, midTermScore=50.0, projectScore=50.0, finalScore=50.0} -- grade -- F
+Student{name="name3", homeworkAssignment1=25.0, homeworkAssignment2=25.0, homeworkAssignment3=25.0, midTermScore=25.0, projectScore=25.0, finalScore=25.0} -- grade -- F
+Student{name="name4", homeworkAssignment1=75.0, homeworkAssignment2=75.0, homeworkAssignment3=75.0, midTermScore=75.0, projectScore=75.0, finalScore=75.0} -- grade -- C
+Student{name="name5", homeworkAssignment1=75.0, homeworkAssignment2=75.0, homeworkAssignment3=75.0, midTermScore=75.0, projectScore=75.0, finalScore=75.0} -- grade -- C
